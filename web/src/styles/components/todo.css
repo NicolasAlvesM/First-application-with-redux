@@ -1,0 +1,14 @@
+.todo{
+    margin:10px 0;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00000022;
+    padding: 20px;
+    border-radius: 8px;
+}
+.todo p{
+    width: 170px;
+    word-wrap: break-word;
+}
